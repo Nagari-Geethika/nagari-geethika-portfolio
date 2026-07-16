@@ -4,9 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ## 🚀 Live Portfolio
 
-👉 https://nagari-geethika.github.io/portfolio/
-
-*(Replace YOUR-GITHUB-USERNAME with your actual GitHub username after publishing.)*
+👉 https://nagari-geethika.github.io/nagari-geethika-portfolio/
 
 ---
 
